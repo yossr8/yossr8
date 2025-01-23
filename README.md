@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yossr Yasser</h1>
 <h3 align="center"> Data Scientist | Trainee @<a href="https://iti.gov.eg/home" target="_blank">ITI</a></h3>
 
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+%7C+Data+Analysis+;Data+Exploration+" alt="Typing SVG" /></a>
+</p>
 ---
 
 ## 🌐 Connect with Me
