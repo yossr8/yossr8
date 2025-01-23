@@ -1,5 +1,10 @@
-## Hi there 👋
+# Hi 👋, I'm Yossr Yasser
 
+<div align="center">
+  <h2>
+    <span class="typing-effect"> Data Scientist | Trainee @ ITI</span>
+  </h2>
+</div>
 <!--
 **yossr8/yossr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
