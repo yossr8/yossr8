@@ -22,8 +22,7 @@
 
 ## 🌟 About Me
 
-- 🎓 **Bachelor's in Computer Science**  
-  **Kafr-El-Sheikh University** (2020 - 2024)  
+- 🎓 **Bachelor's in Computer Science (2020 - 2024) ** 
   **GPA:** 3.65 
 
 - <img src="https://github.com/mohamedsalama677/mohamedsalama677/blob/main/iti-logo.png" alt="ITI Logo" width="15" />  **[Information Technology Institute (ITI)](https://iti.gov.eg/home)**   
