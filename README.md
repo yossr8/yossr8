@@ -34,9 +34,7 @@
   - Data Science, Data Analytics, and everything related to Data  
   - Extracting meaningful insights from data and making data-driven decisions  
   - Skilled in analyzing complex datasets, uncovering patterns, and transforming raw data into actionable insights  
-  - Enthusiastic about utilizing tools like Python, Pandas, and visualization libraries to communicate stories hidden in the data  
-  - Always excited to explore new technologies and methodologies to enhance my data analysis capabilities 
-  - Thrilled by challenges, such as participating in ECPC problem-solving competitions and hackathons.  
+  - Enthusiastic about utilizing tools like Python, Pandas, and visualization libraries to communicate stories hidden in the data 
 
 
 - 🌟 **Key Strengths:**  
@@ -66,11 +64,6 @@
   ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-- **Specializations:**  
-  - Data Analytics
-  - Machine Learning & Deep Learning  
 
 
 ---
