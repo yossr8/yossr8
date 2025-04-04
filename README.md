@@ -70,7 +70,7 @@
 
 ## 💼 Experience
 
-### ** AI Intern**  
+### **AI Intern**  
 *Telelcom Egypt*  
 (September 2024 - October 2024)  
 - Gained hands-on experience with **machine learning fundamentals**, including supervised and unsupervised learning  
@@ -78,7 +78,7 @@
 - Worked with essential tools and frameworks like **Python**, **scikit-learn**, and **TensorFlow** to build and analyze predictive models  
 - Enhanced my understanding of data preprocessing, feature engineering, and model optimization
 
-### ** AI Instructor**  
+### **AI Instructor**  
 *SemiColon Project*  
 (July 2024 – September 2023)  
 - Taught fundamental and advanced concepts of **Artificial Intelligence** and **Machine Learning** to students.  
