@@ -2,7 +2,7 @@
 <h3 align="center"> Data Scientist | Trainee @<a href="https://iti.gov.eg/home" target="_blank">ITI</a></h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+%7C+Data+Analysis+;Data+Exploration+%7C+Machine+Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist+%7C+Mahine+Learning+Engineer" alt="Typing SVG" /></a>
 </p>
 
 
@@ -23,7 +23,7 @@
 ## 🌟 About Me
 
 - 🎓 **Bachelor's in Computer Science (2020 - 2024)** 
-  **GPA:** 3.65 
+  **GPA:** 3.59 
 
 - <img src="https://github.com/mohamedsalama677/mohamedsalama677/blob/main/iti-logo.png" alt="ITI Logo" width="15" />  **[Information Technology Institute (ITI)](https://iti.gov.eg/home)**   
   **Trainee @ ITI Professional 9-Month Diploma in Data Science** (Intake 45)
